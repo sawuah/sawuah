@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 I am Sandra, a data analyst transitioning into healthcare analytics, with focus on using data to improve patient outcomes and support data driven decision making. 
 
