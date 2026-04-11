@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am Sandra, a data analyst transitioning into healthcare analytics, with focus on using data to improve patient outcomes and support data driven decision making. 
+
+I am currently building projects that priotizes supporting the healthcare field, with emphasis on intergrating operational, clinical, claims, and EHR data. 
+
+My main tech stack is SQL, R, Excel, and Tableau. 
+
+
+
 <!--
 **sawuah/sawuah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
