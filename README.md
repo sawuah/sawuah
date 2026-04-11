@@ -6,7 +6,7 @@ I am currently building projects that priotizes supporting the healthcare field,
 
 My main tech stack is SQL, R, Excel, and Tableau. 
 
-## Tool Stack
+## Tech Stack
 - SQL
 - Excel
 - R
