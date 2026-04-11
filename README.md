@@ -6,7 +6,11 @@ I am currently building projects that priotizes supporting the healthcare field,
 
 My main tech stack is SQL, R, Excel, and Tableau. 
 
-
+## Tool Stack
+- SQL
+- Excel
+- R
+- Tableau
 
 <!--
 **sawuah/sawuah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
