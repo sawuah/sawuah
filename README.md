@@ -22,7 +22,7 @@
 #### Healthcare Projects
 [![](https://img.shields.io/badge/-🧾%20Claims%20Analysis-000)](https://github.com/sawuah/Claims-Cost-for-Healthcare)
 [![](https://img.shields.io/badge/-🚑%20ER%20Dashboard-000)](#https://github.com/sawuah/ER-Flows-Wait-Times)
-[![](https://img.shields.io/badge/-⚠️%20Patient%20Risk%20Model-000)](#)
+[![](https://img.shields.io/badge/-⚠️%20Patient%20Risk%20Model-000)](#https://github.com/sawuah/Healthcare-Patient-Risk-Analysis)
 
 ---
 #### Showcase 
@@ -63,8 +63,8 @@
       <br/>
       <b>Healthcare Patient Risk</b><br/>
       <sub> Risk analysis of adverse outcomes for early patient intervention. </sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
-      📊 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Tableau</a>
+      🔗 <a href="https://github.com/sawuah/Healthcare-Patient-Risk-Analysis">Repo</a>
+      📊 <a href="https://public.tableau.com/app/profile/sandra.awuah/viz/HealthcarePatientRiskAnalytics/Overview">Tableau</a>
       <br/>
     </td>
   </tr>
