@@ -37,7 +37,8 @@
       <br/>
       <b>Claims Cost for Healthcare</b><br/>
       <sub>Analyzes healthcare claims to identify key cost drivers and spending patterns.</sub><br/>
-      🔗 <a href=https://github.com/sawuah/Claims-Cost-for-Healthcare>Repo</a>
+      🔗 <a href=https://github.com/sawuah/Claims-Cost-for-Healthcare>Repo</a> 
+        📊 <a href=https://github.com/sawuah/Claims-Cost-for-Healthcare](https://public.tableau.com/app/profile/sandra.awuah/viz/HealthClaimsCostAnalysis/HomePage>Tableau</a>
       <br/>
     </td>
     <td align="center" width="33%">
@@ -50,6 +51,7 @@
       <b>ER Dashboard</b><br/>
       <sub>ER wait times to improve patient flow and operational efficiency.</sub><br/>
       🔗 <a href="https://github.com/sawuah/ER-Flows-Wait-Times">Repo</a>
+       📊 <a href="https://public.tableau.com/app/profile/sandra.awuah/viz/ERFlowWaitTimesDashboard/Dashboard1">Tableau</a>
       <br/>
     </td>
     <td align="center" width="33%">
