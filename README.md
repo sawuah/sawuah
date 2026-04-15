@@ -43,7 +43,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
-        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
+      <img width="1599" height="883" alt="Screenshot 2026-04-03 133122" src="https://github.com/user-attachments/assets/40828d9f-43e3-4302-b5bf-0ee68b8ee408" 
              alt="CI/CD Pipeline Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
