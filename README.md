@@ -1,14 +1,15 @@
 ### Hey there 👋
 
 #### About Me
-I am Sandra, a data analyst transitioning into healthcare analytics, with focus on using data to improve patient outcomes and support data driven decision making. 
+##### I am Sandra, a data analyst transitioning into healthcare analytics, with focus on using data to improve patient outcomes and support data driven decision making. 
+##### I am currently building projects that priotizes supporting the healthcare field, with emphasis on intergrating operational, clinical, claims, and EHR data. 
+--- 
 
-I am currently building projects that priotizes supporting the healthcare field, with emphasis on intergrating operational, clinical, claims, and EHR data. 
-
-My main tech stack is SQL, R, Excel, and Tableau. 
 
 #### Contact
-
+[![](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin&logoColor=white)](www.linkedin.com/in/sandraawuah00)
+[![](https://img.shields.io/badge/-Email-D14836?&logo=gmail&logoColor=white)](mailto:sandraawuah00@gmail.com)
+[![](https://img.shields.io/badge/-GitHub-000?&logo=github&logoColor=white)](https://github.com/sawuah)
 --- 
 #### Tech Stack
 
