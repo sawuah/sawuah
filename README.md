@@ -36,7 +36,7 @@
       </a>
       <br/>
       <b>Claims Cost for Healthcare</b><br/>
-      <sub> Analyzed ICD and CPT codes.</sub><br/>
+      <sub>Analyzes healthcare claims to identify key cost drivers and spending patterns.</sub><br/>
       🔗 <a href=https://github.com/sawuah/Claims-Cost-for-Healthcare>Repo</a>
       <br/>
     </td>
@@ -48,7 +48,7 @@
       </a>
       <br/>
       <b>ER Dashboard</b><br/>
-      <sub>Analyzed er operations</sub><br/>
+      <sub>ER wait times to improve patient flow and operational efficiency.</sub><br/>
       🔗 <a href="https://github.com/sawuah/ER-Flows-Wait-Times">Repo</a>
       <br/>
     </td>
