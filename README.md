@@ -21,8 +21,8 @@
 --- 
 #### Healthcare Projects
 [![](https://img.shields.io/badge/-🧾%20Claims%20Analysis-000)](https://github.com/sawuah/Claims-Cost-for-Healthcare)
-[![](https://img.shields.io/badge/-🚑%20ER%20Dashboard-000)](#https://github.com/sawuah/ER-Flows-Wait-Times)
-[![](https://img.shields.io/badge/-⚠️%20Patient%20Risk%20Model-000)](#https://github.com/sawuah/Healthcare-Patient-Risk-Analysis)
+[![](https://img.shields.io/badge/-🚑%20ER%20Dashboard-000)](https://github.com/sawuah/ER-Flows-Wait-Times)
+[![](https://img.shields.io/badge/-⚠️%20Patient%20Risk%20Model-000)](https://github.com/sawuah/Healthcare-Patient-Risk-Analysis)
 
 ---
 #### Showcase 
