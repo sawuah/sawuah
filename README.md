@@ -15,7 +15,12 @@ My main tech stack is SQL, R, Excel, and Tableau.
 ![R](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?&logo=microsoft-excel&logoColor=white)
 --- 
-#### Projects
+#### Healthcare Projects
+[![](https://img.shields.io/badge/-🧾%20Claims%20Analysis-000)](https://github.com/sawuah/Claims-Cost-for-Healthcare)
+[![](https://img.shields.io/badge/-🚑%20ER%20Dashboard-000)](#https://github.com/sawuah/ER-Flows-Wait-Times)
+[![](https://img.shields.io/badge/-⚠️%20Patient%20Risk%20Model-000)](#)
+
+
 
 <!--
 **sawuah/sawuah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
