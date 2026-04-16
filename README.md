@@ -7,7 +7,7 @@
 
 
 #### Contact
-[![](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin&logoColor=white)](www.linkedin.com/in/sandraawuah00)
+[![](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin&logoColor=white)](www.linkedin.com/in/sandraawuah00/)
 [![](https://img.shields.io/badge/-Email-D14836?&logo=gmail&logoColor=white)](mailto:sandraawuah00@gmail.com)
 [![](https://img.shields.io/badge/-GitHub-000?&logo=github&logoColor=white)](https://github.com/sawuah)
 --- 
